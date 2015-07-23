@@ -1,0 +1,44 @@
+* {
+	marging: 0;
+	padding: 0;
+}
+body {
+	background: url(../images/rainbow-wind.jpg) fixed center;
+}
+.container {
+	background-color: rgba(121, 23, 0, 0.5);
+	color: #43B292;
+	height: auto;
+	margin: 0 auto;
+	padding: 10px;
+	width: 860px;
+}
+header {
+	color: #79FFD8;
+	font: 32px 'Codystar', serif;
+	margin: 0 auto;
+	text-align: center;
+	text-shadow: 4px 4px 4px #43B292;
+}
+main {
+	font: 20px 'Audiowide', cursive;
+}
+.section {
+
+}
+h2 {
+	text-decoration: underline dashed;
+	text-transform: uppercase;
+}
+p {
+	margin: 0 auto;
+	padding: 0 10px;
+}
+ul {
+	margin: 0 auto;
+	padding: 0 30px;
+}
+ol {
+	margin: 0 auto;
+	padding: 0 30px;
+}
