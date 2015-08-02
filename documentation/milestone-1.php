@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title>PWP - Personal Website Project</title>
+		<link href='//fonts.googleapis.com/css?family=Audiowide|Codystar&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
 		<link rel="stylesheet" href="../css/styles.css" />
-		<link href='//fonts.googleapis.com/css?family=Audiowide|Codystar&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
 		<div class="container">
