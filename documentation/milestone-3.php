@@ -12,7 +12,7 @@
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
 		<!-- LINK TO YOUR CUSTOM CSS FILES HERE -->
-		<link type="text/css" href="../css/documentation.css" rel="stylesheet"/>
+		<link type="text/css" href="../css/milestone.css" rel="stylesheet"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -30,7 +30,7 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
-		<title>Documentation</title>
+		<title>Milestone 3</title>
 	</head>
 	<body class="sfooter">
 
@@ -46,24 +46,30 @@
 						</div>
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav pull-right">
-								<li role="presentation"><a href="../index.php">Home</a></li>
-								<li role="presentation" class="active"><a href="./index.php">Documentation</a></li>
+								<li role="presentation"><a href="./index.php">Documentation</a></li>
 								<li role="presentation"><a href="./milestone-1.php">Milestone-1</a></li>
 								<li role="presentation"><a href="./milestone-2.php">Milestone-2</a></li>
-								<li role="presentation"><a href="./milestone-3.php">Milestone-3</a></li>
+								<li role="presentation" class="active"><a href="#">Milestone-3</a></li>
 							</ul>
 						</div>
 					</div>
 				</nav>
 			</div>
 
+			<h1 class="container">Proposed Wireframes</h1>
+
 			<main class="container">
-				<h1>Milestones</h1>
-				<ul>
-					<li class="home"><a href="milestone-1.php">Milestone 1</a></li>
-					<li class="home"><a href="milestone-2.php">Milestone 2</a></li>
-					<li class="home"><a href="#">Milestone 3</a></li>
-				</ul>
+				<h2>Landing Section</h2>
+				<img class="img-responsive" src="../images/landing-section.png" alt="Landing Section Wireframe" width="800px">
+
+				<h2>Projects Section</h2>
+				<img class="img-responsive" src="../images/projects-section.png" alt="Projects Section Wireframe" width="800px">
+
+				<h2>About Me Section</h2>
+				<img class="img-responsive" src="../images/about-me-section.png" alt="About Me Section Wireframe">
+
+				<h2>Contact Section</h2>
+				<img class="img-responsive" src="../images/contact-section.png" alt="Contact Section Wireframe">
 			</main>
 		</div>
 	</body>

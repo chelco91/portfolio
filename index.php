@@ -50,7 +50,7 @@
 								<li role="presentation"><a href="documentation/index.php">Documentation</a></li>
 								<li role="presentation"><a href="documentation/milestone-1.php">Milestone-1</a></li>
 								<li role="presentation"><a href="documentation/milestone-2.php">Milestone-2</a></li>
-								<li role="presentation"><a href="#">Milestone-3</a></li>
+								<li role="presentation"><a href="documentation/milestone-3.php">Milestone-3</a></li>
 							</ul>
 						</div>
 					</div>

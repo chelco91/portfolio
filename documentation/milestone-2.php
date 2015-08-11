@@ -49,7 +49,7 @@
 								<li role="presentation"><a href="./index.php">Documentation</a></li>
 								<li role="presentation"><a href="./milestone-1.php">Milestone-1</a></li>
 								<li role="presentation" class="active"><a href="#">Milestone-2</a></li>
-								<li role="presentation"><a href="#">Milestone-3</a></li>
+								<li role="presentation"><a href="./milestone-3.php">Milestone-3</a></li>
 							</ul>
 						</div>
 					</div>
