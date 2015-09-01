@@ -15,3 +15,6 @@ Your wireframes are really nice, but the mobile view is missing. Deploy your pro
 - Explore parallax plugins. [Skrollr](http://prinzhorn.github.io/skrollr/) and [Stellar.js](http://markdalgleish.com/projects/stellar.js/) are two options
 - Take a look at Bootstrap's [Scrollspy](http://getbootstrap.com/javascript/#scrollspy) plugin
 - Look into WebGL and canvas for your animations.
+
+###Milestone 4 Feedback
+- Topher, it looks like the bulk of this code was copied and pasted from some other source. This is an awesome layout, and can be done easily in Bootstrap, but it looks like a total pain and time-waster to try and re-engineer it the way it is currently - especially concerning responsiveness. Let me know if I can be of help.
